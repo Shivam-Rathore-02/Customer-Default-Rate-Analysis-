@@ -12,10 +12,7 @@ This repository contains the code, data, and documentation for conducting a comp
 - [Analysis Workflow](#analysis-workflow)
 - [Predictive Modeling](#predictive-modeling)
 - [Visualization](#visualization)
-- [Dependencies](#dependencies)
-- [How to Run](#how-to-run)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Structure
 
